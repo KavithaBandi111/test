@@ -1,5 +1,0 @@
-{{#user}
-Name: Kavitha Bandi
-Skills: HTML, CSS, JS, ReactJS
-Email: kavithabandi111@gmail.com
-{{/user}}
